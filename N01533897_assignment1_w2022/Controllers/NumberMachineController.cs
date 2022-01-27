@@ -16,9 +16,7 @@ namespace N01533897_assignment1_w2022.Controllers
         //<summary>
         // Gives the input number after processing with 4 mathematical operations
         // </summary>
-        // <param name="id"> The input number</param>
-        // <returns> Returns the square of input number
-        // Then substract 10, plus 30, and divide by 2 </returns>
+
 
         public int Get(int id)
         {
